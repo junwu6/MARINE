@@ -18,7 +18,7 @@ python main.py
 ```
 
 ## Acknowledgement
-This is the latest source code of **MARINE** for CIKM2019. If you find that **MARINE** is helpful for your research, please consider to cite our paper:
+This is the latest source code of **MARINE** for CIKM2019. If you find that it is helpful for your research, please consider to cite our paper:
 
 ```
 @inproceedings{MARINE_cikm19,

@@ -9,14 +9,13 @@ The code has been tested running under Python 3.6.5. The required packages are a
 * sklearn == 0.20.0
 * networkx == 2.3
 
-## Acknowledgement
-This is the latest source code of **MARINE** for CIKM2019. If you find that **MARINE** is helpful for your research, please consider to cite our paper:
-
 ## Run the Codes
 ```
 python main.py
 ```
 
+## Acknowledgement
+This is the latest source code of **MARINE** for CIKM2019. If you find that **MARINE** is helpful for your research, please consider to cite our paper:
 
 ```
 @inproceedings{MARINE_cikm19,

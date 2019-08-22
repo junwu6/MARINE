@@ -22,8 +22,7 @@ This is the latest source code of **MARINE** for CIKM2019. If you find that **MA
 
 ```
 @inproceedings{MARINE_cikm19,
-  author    = {Jun Wu and
-               Jingrui He},
+  author    = {Jun Wu and Jingrui He},
   title     = {Scalable Manifold-Regularized Attributed Network Embedding via Maximum Mean Discrepancy},
   booktitle = {{CIKM}},
   year      = {2019}

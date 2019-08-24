@@ -2,7 +2,7 @@
 An implementation for "Scalable Manifold-Regularized Attributed Network Embedding via Maximum Mean Discrepancy" (CIKM'19). [[To be appeared]](http://www.cikm2019.net)
 
 ## Environment Requirements
-The code has been tested running under Python 3.6.5. The required packages are as follows:
+The code has been tested under Python 3.6.5. The required packages are as follows:
 * tensorflow == 1.12.0
 * numpy == 1.15.4
 * scipy == 1.1.0

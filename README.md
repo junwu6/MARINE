@@ -1,5 +1,5 @@
 # MARINE (MAnifold-RegularIzed Network Embedding)
-An implementation for "Scalable Manifold-Regularized Attributed Network Embedding via Maximum Mean Discrepancy" (CIKM'19). [[Paper]](http://www.cikm2019.net/attachments/papers/p2101-wuAemb.pdf)
+An implementation for "Scalable Manifold-Regularized Attributed Network Embedding via Maximum Mean Discrepancy" (CIKM'19). [[Paper]](https://dl.acm.org/citation.cfm?id=3358091)
 
 ## Environment Requirements
 The code has been tested under Python 3.6.5. The required packages are as follows:

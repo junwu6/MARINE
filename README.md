@@ -21,11 +21,12 @@ python main.py
 This is the latest source code of **MARINE** for CIKM2019. If you find that it is helpful for your research, please consider to cite our paper:
 
 ```
-@inproceedings{MARINE_cikm19,
-  author    = {Jun Wu and Jingrui He},
-  title     = {Scalable Manifold-Regularized Attributed Network Embedding via Maximum Mean Discrepancy},
-  booktitle = {Proceedings of the 28th ACM International Conference on Information and Knowledge Management},
-  year      = {2019},
-  organization = {ACM}
+@inproceedings{wu2019scalable,
+  title={Scalable Manifold-Regularized Attributed Network Embedding via Maximum Mean Discrepancy},
+  author={Wu, Jun and He, Jingrui},
+  booktitle={Proceedings of the 28th ACM International Conference on Information and Knowledge Management},
+  pages={2101--2104},
+  year={2019},
+  organization={ACM}
 }
 ```
